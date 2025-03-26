@@ -8,7 +8,7 @@ This repository contains solutions for the GSoC (Google Summer of Code) evaluati
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ```
 GSoC_Evaluation_CMS/
 ├── Task1/                             # Electron/Photon Classification
@@ -35,7 +35,7 @@ GSoC_Evaluation_CMS/
 
 ---
 
-## 🏆 Tasks Overview
+## Tasks Overview
 ### 1. **Electron/Photon Classification with ResNet-15**
 This task involves developing a ResNet-15-based binary classifier to distinguish between electrons and photons using 32×32 matrices representing hit energy and time.
 
@@ -75,7 +75,7 @@ This task involves training an Enhanced Super-Resolution GAN (ESRGAN) to increas
 
 ---
 
-## ✍️ Author
+## Author
 - **Kartik Bhatt**  
 - 📧 [kartikbhtt7@gmail.com](mailto:kartikbhtt7@gmail.com)  
 
