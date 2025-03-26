@@ -104,17 +104,17 @@ Below are example outputs from the trained model:
 ## References
 [Research Paper Directory](https://www.dropbox.com/scl/fo/9agote4l4m586hch4duh6/ACoqBkbhS8d4DoW6f4Fkao8?rlkey=r6oxoa2e033cmvgbeu9yzm3qo&st=g7l1xj55&dl=0)
 
-1. **ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks** – Wang et al.  
-2. **Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network** – Ledig et al.  
-3. **Generative Adversarial Networks** – Goodfellow et al.  
-4. **Generative Adversarial Networks for Image Super-Resolution: A Survey** – Yang et al.  
-5. **Guided Frequency Loss for Image Restoration** – Li et al.
+1. **ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks**
+2. **Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network**
+3. **Generative Adversarial Networks**
+4. **Generative Adversarial Networks for Image Super-Resolution: A Survey**
+5. **Guided Frequency Loss for Image Restoration**
 
 ---
 
 ## Author
 
-- **[Kartik Bhatt]**  
-- 📧 [kartikbhtt7@gmail.com]
+- **Kartik Bhatt**  
+- 📧 kartikbhtt7@gmail.com
 
 ---
