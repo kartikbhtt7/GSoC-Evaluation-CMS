@@ -1,4 +1,5 @@
-# GSoC Evaluation – CMS Particle Physics Tasks
+# GSoC Evaluation – CMS Tasks
+## For Super resolution at the CMS detector
 
 This repository contains solutions for the GSoC (Google Summer of Code) evaluation tasks involving two distinct challenges related to particle physics data:
 
